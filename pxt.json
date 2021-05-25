@@ -1,0 +1,25 @@
+{
+    "name": "Fish Run",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.43",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
